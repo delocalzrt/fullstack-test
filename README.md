@@ -30,7 +30,7 @@ A feladatot a következő szempontok alapján fogják értékelni:
 -   A feladat  **teljesítése**
 -   A kód  **minősége**  (olvashatóság, áttekinthetőség, hibamentes működés)
 -   A  **frontend felépítése** és a vanilla js hatékony használata
--   Az  ** API-k**  megvalósítása
+-   Az  **API-k**  megvalósítása
 -   A  **biztonságos hitelesítési**  és  **engedélyezési logika**
 -   A  **hatékony hibakezelés**  és  **naplózás**
 -   A  **kreativitás**
