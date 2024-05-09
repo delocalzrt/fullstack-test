@@ -13,6 +13,7 @@ Fejlessz egy olyan webapp-ot, ahol a felhasználóknak lehetőségük van regisz
 -   **API végpontok:**  A backendnek  **több API végpontot**  kell biztosítania a frontend számára, amelyek különböző funkciókat fednek le (pl. felhasználókezelés, adatlekérés, adatküldés).
 -   **Hitelesítési és engedélyezési logika:**  A backendnek  **robosztus hitelesítési és engedélyezési logikát**  kell megvalósítania, amely biztosítja a felhasználók adatainak védelmét és a jogosulatlan hozzáférést.
 -   **Hibakezelés és naplózás:**  Mind a frontend, mind a backend komponenseknek  **hatékony hibakezelési és naplózási mechanizmusokkal**  kell rendelkezniük a problémák azonosításához és elhárításához.
+-   **Ideális esetben** nem használsz keretrendszert a backend oldalon sem, látni szeretnénk, milyen a logikád, hogyan gondolkodsz
 
 **Feladatok benyújtása:**
 
